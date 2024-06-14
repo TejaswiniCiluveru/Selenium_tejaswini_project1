@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-03T23:19:42 EDT" name="Surefire suite" finished-at="2024-06-03T23:20:42 EDT" duration-ms="59735">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T23:19:42 EDT" name="Surefire test" finished-at="2024-06-03T23:20:42 EDT" duration-ms="59735">
+      <class name="selenium_sample.Selenium_TestCases">
+        <test-method signature="testOmnifoodWebsite()[pri:0, instance:selenium_sample.Selenium_TestCases@7c83dc97]" started-at="2024-06-03T23:19:42 EDT" name="testOmnifoodWebsite" finished-at="2024-06-03T23:20:42 EDT" duration-ms="59662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOmnifoodWebsite -->
+      </class> <!-- selenium_sample.Selenium_TestCases -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
